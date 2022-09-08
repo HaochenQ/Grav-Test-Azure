@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'GravWindowsHoward'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CF14B7DB44BD4F4E9EA1963D8B455619 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DC9D3E7662634648ADDE53D29C37186E }}
           package: .
